@@ -1,0 +1,27 @@
+# Keil MDK build outputs
+MDK-ARM/project_1/
+MDK-ARM/build/
+MDK-ARM/bin/
+MDK-ARM/obj/
+MDK-ARM/out/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.lst
+
+# IDE and local tool state
+MDK-ARM/.vscode/launch.json
+MDK-ARM/.vscode/*.log
+MDK-ARM/.vscode/*.lock
+MDK-ARM/.settings/
+MDK-ARM/.eide/log
+MDK-ARM/.eide.usr.ctx.json
+
+*.ept
+*.eide-template
+*.log
+*.tmp
+
+# Operating-system metadata
+Thumbs.db
+desktop.ini
+.DS_Store
